@@ -1,10 +1,9 @@
 # KaziFasta
-Kazifasta is a web application that aims at providing a platform for casual labourers to showcase their skills and get hired.
+Kazifasta is a web application that aims at providing a platform for casual labours to showcase their skills and get hired.
 Kazifasta aims to improve hiring efficiency, enhance accessibility, build trust, support economic growth, and increase convenience for both employers and workers, offering significant benefits to Kenya’s casual labor market.
 
 Features
 User Authentication: Sign up, log in and log out functionalities
-Recipe Management: create, view, and delete recipes
 Comments: Users can comment on the accounts of the casual labourers to rate them
 client profiles: clients can log in, filter and browse thru the profiles of the casual labourers
 
@@ -20,7 +19,7 @@ https://github.com/stanly08/KaziFasta.git
 
 Navigate to the project directory:
 
-cd dish-discovery
+cd KaziFasta
 
 Create a virtual environment:
 
