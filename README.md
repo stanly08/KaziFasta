@@ -45,8 +45,8 @@ Start the Flask development Server:
 
 flask run
 
-
-
+###project structure
+'''
 KaziFasta/
 │
 ├── app/
